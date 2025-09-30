@@ -8,7 +8,7 @@ GitHub: https://github.com/oitcode/samarium
 - Docker image: samarium-app
 - DB: samarium_db (MySQL)
 - Test URL: http://localhost:8000
-- Version / commit: v0.9.6 (please see attached composer.lock / commit hash if available)
+- Version: v0.9.6
   
 ## POC (brief):
 1. Start a listener on an attacker host:
